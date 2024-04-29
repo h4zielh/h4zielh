@@ -8,7 +8,7 @@ full-stack dev as a freelancer.
 
 I don't know what else to put here though :/
 
-In case you like mahjong, here's my mahjongsoul ID:
+In case you like to play mahjong, here's my mahjongsoul ID:
 112636259
 
 <!--👽-->
