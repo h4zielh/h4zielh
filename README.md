@@ -1,16 +1,14 @@
-### Hi there 👋
+# こんにちは、
+## 俺はソフトウェアエンジニアとゲーム開発者だけ。。。
 
-<!--
-**h4zielh/h4zielh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm working on a bunch of stuff right now, my site, OS, and even my own AI model!
 
-Here are some ideas to get you started:
+### Experience with back-end from working at DHL, also from writing APIs and
+### full-stack dev as a freelancer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I don't know what else to put here though :/
+
+### In case you like mahjong, here's my mahjongsoul ID:
+### 112636259
+
+<!--👽-->
