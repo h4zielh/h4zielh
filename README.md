@@ -3,7 +3,7 @@
 
 I'm working on a bunch of stuff right now, my site, OS, and even my own AI model!
 
-Experience with back-end from working at DHL, also from writing APIs and
+Experience with back-end from working at DHL, also from data analysis and
 front-end/back-end dev as a freelancer.
 
 I don't know what else to put here though :/
